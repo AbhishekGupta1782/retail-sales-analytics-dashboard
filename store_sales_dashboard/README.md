@@ -16,9 +16,9 @@ The dashboard provides a comprehensive overview of sales performance
 using interactive charts, KPIs, and slicers. It helps identify business
 trends, profitable products, and regional and customer performance.
 
-## 🖥️ Dashboard Preview
+## 💻 Dashboard Preview
 
-![Retail Sales Analytics Dashboard](./Images/retail_sales_dashboard.png)
+![Retail Sales Analytics Dashboard](./retail_sales_dashboard.png)
 
 ------------------------------------------------------------------------
 
