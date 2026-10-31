@@ -18,7 +18,7 @@ trends, profitable products, and regional and customer performance.
 
 ## 🖥️ Dashboard Preview
 
-![Retail Sales Analytics Dashboard](Images/retail-sales-dashboard.png)
+![Retail Sales Analytics Dashboard](Images/retail_sales_dashboard.png)
 
 ------------------------------------------------------------------------
 
@@ -94,18 +94,21 @@ performance:
 ## 📂 Repository Structure
 
 ``` text
-retail-sales-analytics-dashboard/
+store_sales_dashboard/
 │
-├── Dashboard/
-│   └── Retail_Sales_Dashboard.xlsx
+├── README.md
+│
+├── Reports/
+|   └── Retail_Sales_Dashboard_Summary.pdf
 │
 ├── Dataset/
 │   └── Retail_Sales_Data.xlsx
 │
-├── Images/
-│   └── retail-sales-dashboard.png
+├── Dashboard/
+│   └── retail_sales_analytics_dashboard.xlsx
 │
-└── README.md
+└── Images/
+   └── retail_sales_dashboard.png
 ```
 
 ## 🚀 How to Use This Project
